@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/marcos7676/ECommerce/static/js/main.4e9ab288.js",
+    "static/media/cupcake.jpg": "/marcos7676/ECommerce/static/media/cupcake.a83b7cc626a8e36e79fb.jpg",
+    "static/media/bolo.jpg": "/marcos7676/ECommerce/static/media/bolo.32d65bab943e7139af63.jpg",
+    "static/media/sorvete.jpg": "/marcos7676/ECommerce/static/media/sorvete.13f310abc05422c107d1.jpg",
+    "static/media/chocolate.jpg": "/marcos7676/ECommerce/static/media/chocolate.c5c4b128b5597ec5c05f.jpg",
+    "static/media/donuts.jpg": "/marcos7676/ECommerce/static/media/donuts.bf2980344d0826153004.jpg",
+    "static/media/waffle.jpg": "/marcos7676/ECommerce/static/media/waffle.b7aa8ff0b0defec39fd6.jpg",
+    "static/media/rocambole.jpg": "/marcos7676/ECommerce/static/media/rocambole.fe9a4a731abbe6e4feee.jpg",
+    "static/media/croissant.jpg": "/marcos7676/ECommerce/static/media/croissant.f5573c05eeaa853040c0.jpg",
+    "index.html": "/marcos7676/ECommerce/index.html",
+    "main.4e9ab288.js.map": "/marcos7676/ECommerce/static/js/main.4e9ab288.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4e9ab288.js"
+  ]
+}
